@@ -21,7 +21,7 @@ public class BlockLitObsidian extends BlockObsidian{
 	public BlockLitObsidian() {
 		super();
 		this.setRegistryName(name).setUnlocalizedName(name).setCreativeTab(CreativeTabs.BUILDING_BLOCKS);
-		this.setSoundType(SoundType.STONE).setLightLevel(1).setHardness(1200).setHarvestLevel("pickaxe", 3);
+		this.setSoundType(SoundType.STONE).setLightLevel(1).setHardness(240).setResistance(1200).setHarvestLevel("pickaxe", 3);
 		ItemLoader.items.add(new ItemBlock(this).setRegistryName(name));
 		BlockLoader.blocks.add(this);
 		MSA.LOG.info("BlockLitObsidian");
