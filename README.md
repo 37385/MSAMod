@@ -1,2 +1,2 @@
-# MS Mod
+# Minecraft Simple Addition
 My first mod.
