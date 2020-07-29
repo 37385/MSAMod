@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "msa:blocks/litobsidian1",
+        "down": "msa:blocks/litobsidian1",
+        "up": "msa:blocks/litobsidian1",
+        "north": "msa:blocks/litobsidian1",
+        "south": "msa:blocks/litobsidian1",
+        "west": "msa:blocks/litobsidian1",
+        "east": "msa:blocks/litobsidian1"
+    }
+}

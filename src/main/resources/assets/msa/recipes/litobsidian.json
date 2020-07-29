@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "msa:litobsidian"
+  },
+  "pattern": [
+    " W ",
+    "WDW",
+    " W "
+  ],
+  "key": {
+    "D": {
+      "type": "forge:ore_dict",
+      "ore": "obsidian"
+    },
+    "W": {
+	  "type": "forge:ore_dict",
+      "ore": "dustGlowstone"
+    }
+  }
+}
